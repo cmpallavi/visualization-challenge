@@ -1,0 +1,3 @@
+1. There is a strong correlation between the weight of the mice and the tumor size based on r-value. This is for Capomulin treatment.
+2. Capomulin might be effective treatment to treat the cancer. The tumor size in mouse l509 decreased as treatment time increased. Need to review for bigger sample size.. 
+3. The tume final tumor size in Capomiulin and Ramicine treatments were smaller than other two and these might be effective treaments.
